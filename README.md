@@ -39,3 +39,4 @@ LED configuration screen added.
 Added background color to water level gauge for better visual.
 Fine-tuned alignment of graphic elements on Home screen.
 Enjoy!
+
