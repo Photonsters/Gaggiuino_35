@@ -27,12 +27,13 @@ Enjoy!
 
 
 
-### Version History
+### Nextion 3.5" Version History
 
 #### Ver. 21MAR2024:
 
 - Full rework of  Manual Mode.
-- Added ShotPower meter.
+- Added ShotPower meter
+-   (basically hydraulic force applied to puck)
 
 
 #### Ver. 06MAR2024:
