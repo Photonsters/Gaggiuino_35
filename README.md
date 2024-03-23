@@ -57,8 +57,8 @@ Save updated values like this:
 
 
 ##### Ver. 14FEB2024:
--Weight button text on main screen is RED when Stop-on-dose is enabled
--Started cleaning up Brew Preview screen
+- Weight button text on main screen is RED when Stop-on-dose is enabled
+- Started cleaning up Brew Preview screen
 
 
 #### Ver. 29JAN2024:
