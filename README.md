@@ -32,8 +32,7 @@ Enjoy!
 #### Ver. 21MAR2024:
 
 - Full rework of  Manual Mode.
-- Added ShotPower meter: this is an indicator
-- hydraulic force applied to the puck
+- Added ShotPower meter: this is an indicator of the hydraulic force applied to the puck
 
 
 #### Ver. 06MAR2024:
