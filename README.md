@@ -1,5 +1,8 @@
 # Gaggiuino Nextion display HMI files
 
+by Steve Nofs
+
+See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 
 ## NEXTION 3.5" DISPLAY 
 
