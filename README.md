@@ -4,30 +4,41 @@ by Steve Nofs
 
 See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 
-## NEXTION 3.5" DISPLAY 
+## NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAYS
 
 ### How to use
 1.  Open in Nextion editor, click the "Device ID" in the top menu bar, select your Device. 
 2. Select "Display" and choose rotation: select 270 for Robert Silvers 3.5" bezel.
 
 
-## NEXTION 2.4" and 2.8" DISPLAY 
+### NEXTION 2.4" and 2.8" DISPLAY 
 For Nextion 2.4" and 2.8" screens.
 
 Open in Nextion editor, click the "Device ID" in the top menu bar, select your Device. Then select Display and choose rotation: select 90 for the original 2.4" or select 270 for Robert Silvers 2.8 bezel".
 
 Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
 
-A better indication of Stop-on-weight being enabled: red outline on the button with white text; easier to read. 
-LED configuration screen added.
-
-Added background color to water level gauge for better visual.
-Fine-tuned alignment of graphic elements on Home screen.
-Enjoy!
 
 
+##### Nextion 2.4"/2.8" Version History #####
 
-### Nextion 3.5" Version History
+#### Ver. 24MAR2024:
+
+- Full rework of Manual Brew Screen with Brew Graph, Flow, Flow Target, Weight, Target Weight, Shot Hydaulic force feedback gauge during shot.
+- Realign/organize components in Brew Settings screens.
+- Color code data entry components in Brew Setting screens: Weight=GREEN, Flow=YELLOW, Temperature=RED, Pressure=BLUE.
+- Added Target Weight to Brew Screen
+- Added target weight to Brew Screen
+
+#### Ver. 10MAR2024:
+- A better indication of Stop-on-weight being enabled: red outline on the button with white text; easier to read. 
+- LED configuration screen to configure LED color
+- Added background color to water level gauge for better visual.
+- Fine-tuned alignment of graphic elements on Home screen.
+
+
+
+##### Nextion 3.5" Version History #####
 
 #### Ver. 24MAR2024:
 
