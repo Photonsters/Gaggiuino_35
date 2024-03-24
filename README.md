@@ -23,7 +23,6 @@ For Nextion 2.4" and 2.8" screens.
 - Realign/organize components in Brew Settings screens.
 - Color code data entry components in Brew Setting screens: Weight=GREEN, Flow=YELLOW, Temperature=RED, Pressure=BLUE.
 - Added Target Weight to Brew Screen
-- Added target weight to Brew Screen
 
 #### Ver. 10MAR2024:
 - A better indication of Stop-on-weight being enabled: red outline on the button with white text; easier to read. 
