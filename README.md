@@ -9,16 +9,11 @@ See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 ### How to use
 1.  Open in Nextion editor, click the "Device ID" in the top menu bar, select your Device. 
 2. Select "Display" and choose rotation: select 270 for Robert Silvers 3.5" bezel.
+3. Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
 
 
 ### NEXTION 2.4" and 2.8" DISPLAY 
 For Nextion 2.4" and 2.8" screens.
-
-Open in Nextion editor, click the "Device ID" in the top menu bar, select your Device. Then select Display and choose rotation: select 90 for the original 2.4" or select 270 for Robert Silvers 2.8 bezel".
-
-Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
-
-
 
 ##### Nextion 2.4"/2.8" Version History #####
 
