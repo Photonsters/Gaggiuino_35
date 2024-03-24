@@ -32,7 +32,7 @@ See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 
 #### NEXTION 3.5" VERSION HISTORY #####
 
-#### Ver. 24MAR2024:
+#### Ver. 24MAR2024_BETA: (once Manual Brew fully tested the BETA indication will be removed)
 
 - More cleaning up of Brew option screens; aligning/arranging components
 - Added Preview button to Soak Screen
