@@ -12,10 +12,7 @@ See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 3. Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
 
 
-### NEXTION 2.4" and 2.8" DISPLAY 
-For Nextion 2.4" and 2.8" screens.
-
-##### Nextion 2.4"/2.8" Version History #####
+#### NEXTION 2.4" and 2.8" VERSION HISTORY ####
 
 #### Ver. 24MAR2024:
 
@@ -32,7 +29,7 @@ For Nextion 2.4" and 2.8" screens.
 
 
 
-##### Nextion 3.5" Version History #####
+#### NEXTION 3.5" VERSION HISTORY #####
 
 #### Ver. 24MAR2024:
 
