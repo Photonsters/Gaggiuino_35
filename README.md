@@ -15,7 +15,7 @@ See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 
 #### NEXTION 2.4" and 2.8" VERSION HISTORY ####
 
-#### Ver. 24MAR2024:
+#### Ver. 24MAR2024_BETA: (once Manual Brew fully tested the BETA indication will be removed)
 
 - Full rework of Manual Brew Screen with Brew Graph, Flow, Flow Target, Weight, Target Weight, Shot Hydaulic force feedback gauge during shot.
 - Realign/organize components in Brew Settings screens.
@@ -32,7 +32,7 @@ See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 
 #### NEXTION 3.5" VERSION HISTORY #####
 
-#### Ver. 24MAR2024_BETA: (once Manual Brew fully tested the BETA indication will be removed)
+#### Ver. 24MAR2024:
 
 - More cleaning up of Brew option screens; aligning/arranging components
 - Added Preview button to Soak Screen
