@@ -41,7 +41,7 @@ See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 
 - Full rework of  Manual Mode.
 - Added ShotPower meter: this is an indicator of the hydraulic force applied to the puck
-
+- added target weight to Brew Graph screen. 
 
 #### Ver. 06MAR2024:
 
