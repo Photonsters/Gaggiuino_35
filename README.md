@@ -29,6 +29,11 @@ Enjoy!
 
 ### Nextion 3.5" Version History
 
+#### Ver. 24MAR2024:
+
+- More cleaning up of Brew option screens; aligning/arranging components
+- Added Preview button to Soak Screen
+
 #### Ver. 21MAR2024:
 
 - Full rework of  Manual Mode.
