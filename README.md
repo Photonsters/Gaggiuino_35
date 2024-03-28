@@ -89,3 +89,4 @@ Save updated values like this:
 
 ### Need help or have Feedback?
 - [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
+- [Printables rsilvers Bezels](https://www.printables.com/model/487643-gaggiuino-24-28-and-35-nextion-display-housing)
