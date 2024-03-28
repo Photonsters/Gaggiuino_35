@@ -3,7 +3,7 @@
 by Steve Nofs
 
 See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
-Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggiuino-24-28-and-35-nextion-display-housing)
+Find bezel model at [Printables rsilvers](https://www.printables.com/model/487643-gaggiuino-24-28-and-35-nextion-display-housing).
 
 ## NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAYS
 
