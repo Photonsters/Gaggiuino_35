@@ -14,7 +14,7 @@ Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggi
 4. Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
 
 
-#### NEXTION 2.4" and 2.8" VERSION HISTORY ####
+### NEXTION 2.4" and 2.8" VERSION HISTORY ####
 
 #### Ver. 24MAR2024:
 
@@ -31,7 +31,7 @@ Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggi
 
 
 
-#### NEXTION 3.5" VERSION HISTORY #####
+### NEXTION 3.5" VERSION HISTORY #####
 
 #### Ver. 24MAR2024:
 
@@ -68,7 +68,7 @@ Save updated values like this:
 - Weight button on main screen gets RED outline when Stop-on-dose is enabled
 
 
-##### Ver. 14FEB2024:
+#### Ver. 14FEB2024:
 - Weight button text on main screen is RED when Stop-on-dose is enabled
 - Started cleaning up Brew Preview screen
 
