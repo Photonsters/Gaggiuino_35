@@ -88,6 +88,22 @@ Save updated values like this:
 
 
 
+
+### Nextion 4.3" Version History
+
+
+#### Ver. 14APR2024b
+- added "Load Defaults" button to Keyboard screen
+
+
+#### Ver. N/A
+- Build based on 3.5" HMI
+- Added graphical brew selection buttone
+- Resized elements
+- Eliminated Brew Graph Preview and implemented Live-updating Brew Graph Preview
+
+
+
 ### Need help or have Feedback?
 - [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
 
