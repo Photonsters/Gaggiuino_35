@@ -1,6 +1,9 @@
 # Gaggiuino Nextion display HMI files
 
+## NEXTION 4.3" DISPLAY, NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAY
+
 by Steve Nofs
+  - *** I am in the process of adding all TFT files 4.3" TFTs have been added ***
   - This GitHub repository contains my HMI versions for the Nextion display for use on the Gaggiuino mood of the Gaggia Espresso Machine.
   - My goal was to provide a clean and innovative interface to the STM32 comtroller while maintaining all functionality of the original HMI coding.
   - What you will find here are my HMI files and compiled TFT files for the 2.4"/2.8", 3.5" and 4.3" Nextion displays.
@@ -10,8 +13,8 @@ by Steve Nofs
 See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggiuino-24-28-and-35-nextion-display-housing).
 
-### Need help or have Feedback?
- [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
+### Need help or have Feedback?  [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
+ 
     
   - Nextion 4.3"     HOME, MANUAL BREW, GREW PREVIEW:
   - ![Screenshot Home 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/bda699cc-7143-4f21-a3b8-86ed56de920f)
@@ -20,8 +23,6 @@ Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggi
 
 
 
-
-## NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAYS
 
 ### How to use
 1. *** Note if errors when trying to open file: Click on file, click View Raw which will download the file, then open the file in Nextion Editor.
