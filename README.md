@@ -5,6 +5,10 @@ by Steve Nofs
 See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggiuino-24-28-and-35-nextion-display-housing).
 
+### Need help or have Feedback?
+ [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
+
+
 ## NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAYS
 
 ### How to use
@@ -104,6 +108,4 @@ Save updated values like this:
 
 
 
-### Need help or have Feedback?
-- [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
 
