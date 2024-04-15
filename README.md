@@ -12,6 +12,13 @@ Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggi
 
 ### Need help or have Feedback?
  [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
+    
+  - Nextion 4.3"     HOME, MANUAL BREW, GREW PREVIEW:
+  - ![Screenshot Home 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/bda699cc-7143-4f21-a3b8-86ed56de920f)
+  - ![Screenshot Brew 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/4393fc70-ba02-4e99-b582-5a0fcebbcebb)
+  - ![Screenshot Preview 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/bcedd400-7ccc-42c6-8c44-1ad0937d52be)
+
+
 
 
 ## NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAYS
