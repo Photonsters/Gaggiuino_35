@@ -4,7 +4,7 @@
 
 by Steve Nofs
   - *** I am in the process of adding all TFT files 4.3" TFTs have been added ***
-  - This GitHub repository contains my HMI versions for the Nextion display for use on the Gaggiuino mood of the Gaggia Espresso Machine.
+  - This GitHub repository contains my HMI versions for the Nextion display for use on the Gaggiuino mod of the Gaggia Espresso Machine.
   - My goal was to provide a clean and innovative interface to the STM32 controller while maintaining all functionality of the original HMI coding.
   - What you will find here are my HMI files and compiled TFT files for the 2.4"/2.8", 3.5" and 4.3" Nextion displays.
   - Feel free to give them a try. If for any reason you want to revert back to the original HMI code you can always flash to original code to your display.
