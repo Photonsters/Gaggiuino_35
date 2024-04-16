@@ -113,7 +113,7 @@ Save updated values like this:
 - added "Load Defaults" button to Keyboard screen
 
 
-#### Ver. N/A
+#### Ver. 14APR2024
 - Build based on 3.5" HMI
 - Added graphical profile selection buttons
 - Resized elements
