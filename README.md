@@ -115,10 +115,9 @@ Save updated values like this:
 
 #### Ver. N/A
 - Build based on 3.5" HMI
-- Added graphical brew selection buttone
+- Added graphical profile selection buttons
 - Resized elements
-- Eliminated Brew Graph Preview and implemented Live-updating Brew Graph Preview
-
+- Implemented Live-updating Brew Graph Preview
 
 
 
