@@ -2,7 +2,7 @@
 ## NEXTION 4.3" DISPLAY, NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAY HMI FILES
 
 by Steve Nofs
-  - *** I am in the process of adding all TFT files 4.3" TFTs have been added ***
+  - TFT files uploaded.
   - The Nextion 4.3" must be Intelligent Series to run the 4.3" code.
   - This GitHub repository contains my HMI versions for the Nextion display for use on the Gaggiuino mod of the Gaggia Espresso Machine.
   - My goal was to provide a clean and innovative interface to the STM32 controller while maintaining all functionality of the original HMI coding.
