@@ -11,8 +11,8 @@ by Steve Nofs
   - Feel free to give them a try. If for any reason you want to revert back to the original HMI code you can always flash to original code to your display.
   - Enjoy!
 
-See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
-Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggiuino-24-28-and-35-nextion-display-housing).
+### See the latest demos on my channel  [YouTube](https://www.youtube.com/@stevenofs8795).
+### Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggiuino-24-28-and-35-nextion-display-housing).
 
 ### Need help or have Feedback?  [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
 
