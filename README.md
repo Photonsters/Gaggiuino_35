@@ -1,5 +1,5 @@
 
-## NEXTION 4.3" DISPLAY, NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAY
+## NEXTION 4.3" DISPLAY, NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAY HMI FILES
 
 by Steve Nofs
   - *** I am in the process of adding all TFT files 4.3" TFTs have been added ***
