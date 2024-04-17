@@ -30,11 +30,13 @@ Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggi
 ![Screenshot Home 24](<Screenshot Home-1.png>)
 
 ## How to use
+#### METHOD 1 - Direct load TFT file to to 32G FAT MicrtSD card (it must be the only file on the SD card), insert into Nextion, power on to flash display.
+#### METHOD 2 - Load into Nextion editor, complie, export to 32G FAT flash card, flash display.
 1. *** Note if errors when trying to open file: Click on file, click View Raw which will download the file, then open the file in Nextion Editor.
 2. In Nextion editor, click the "Device ID" in the top menu bar, select your Device. 
-3. Select "Display" and choose rotation: standard rotation 90; select 270 for Robert Silvers 3.5" bezel.
+3a. 2.4", 2.8", 3.5": Select "Display" and choose rotation: standard rotation 90; select 270 for Robert Silvers 3.5" bezel.
+3b. 4.3": Select "Display" and choose rotation of 0 degrees or 180 degrees depending on bezel being used.
 4. Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
-
 
 ## NEXTION 2.4" and 2.8" VERSION HISTORY ####
 
