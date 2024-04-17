@@ -1,4 +1,4 @@
-I'm# Gaggiuino Nextion display HMI files
+#Gaggiuino Nextion display HMI files
 
 ## NEXTION 4.3" DISPLAY, NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAY
 
