@@ -2,7 +2,7 @@
 ## NEXTION 4.3" DISPLAY, NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAY HMI FILES
 
 by Steve Nofs
-  - All TFT files uploaded for 'standard' orientation and 'flipped 180' rotation. Let me know if you need a specific display compiled/uploaded.
+  - For those without the Nextion editor: All TFT files have been compiled/uploaded for 'standard' orientation and 'flipped 180' rotation. Let me know if you need a specific display compiled/uploaded.
   - The Nextion 4.3" must be Intelligent Series to run the 4.3" code.
   - This GitHub repository contains my HMI versions for the Nextion display for use on the Gaggiuino mod of the Gaggia Espresso Machine.
   - My goal was to provide a clean and innovative interface to the STM32 controller while maintaining all functionality of the original HMI coding.
