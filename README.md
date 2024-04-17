@@ -23,12 +23,11 @@ Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggi
   
 ## Nextion 3.5"
 
-![Screenshot Home 35](<Screenshot Home.png>)
+![Screenshot Home 35](<Pics/Screenshot Home.png>)
 
 ## Nextion 2.4" and 2.8"
 
-![Screenshot Home 24](<Screenshot Home-1.png>)
-
+![Screenshot Home 24](<Pics/Screenshot Home-1.png>)
 ## How to use
 #### METHOD 1 - Direct load TFT file to to 32G FAT MicrtSD card (it must be the only file on the SD card), insert into Nextion, power on to flash display.
 #### METHOD 2 - Load into Nextion editor, complile, export to 32G FAT flash card, flash display.
