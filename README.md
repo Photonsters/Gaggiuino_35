@@ -15,24 +15,28 @@ See the latest demos on [youtube](https://www.youtube.com/@stevenofs8795).
 Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggiuino-24-28-and-35-nextion-display-housing).
 
 ### Need help or have Feedback?  [Gaggiuino Builders on FB](https://www.facebook.com/groups/5362374853865845)
+
  
-    
-  - Nextion 4.3"     HOME, MANUAL BREW, LIVE BREW PREVIEW:
-  - ![Screenshot Home 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/bda699cc-7143-4f21-a3b8-86ed56de920f)
-  - ![Screenshot Brew 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/4393fc70-ba02-4e99-b582-5a0fcebbcebb)
-  - ![Screenshot Preview 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/bcedd400-7ccc-42c6-8c44-1ad0937d52be)
+## Nextion 4.3"
 
+   ![Screenshot Home 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/bda699cc-7143-4f21-a3b8-86ed56de920f)
+  
+## Nextion 3.5"
 
+![Screenshot Home 35](<Screenshot Home.png>)
 
+## Nextion 2.4" and 2.8"
 
-### How to use
+![Screenshot Home 24](<Screenshot Home-1.png>)
+
+## How to use
 1. *** Note if errors when trying to open file: Click on file, click View Raw which will download the file, then open the file in Nextion Editor.
 2. In Nextion editor, click the "Device ID" in the top menu bar, select your Device. 
 3. Select "Display" and choose rotation: standard rotation 90; select 270 for Robert Silvers 3.5" bezel.
 4. Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
 
 
-### NEXTION 2.4" and 2.8" VERSION HISTORY ####
+## NEXTION 2.4" and 2.8" VERSION HISTORY ####
 
 #### Ver. 24MAR2024:
 
@@ -49,7 +53,7 @@ Bezel models [Printables rsilvers](https://www.printables.com/model/487643-gaggi
 
 
 
-### NEXTION 3.5" VERSION HISTORY #####
+## NEXTION 3.5" VERSION HISTORY #####
 
 #### Ver. 24MAR2024:
 
@@ -107,7 +111,7 @@ Save updated values like this:
 
 
 
-### Nextion 4.3" Version History
+## Nextion 4.3" Version History
 
 
 #### Ver. 14APR2024b
