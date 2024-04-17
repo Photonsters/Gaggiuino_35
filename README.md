@@ -28,6 +28,8 @@ by Steve Nofs
 ## Nextion 2.4" and 2.8"
 
 ![Screenshot Home 24](<Pics/Screenshot Home-1.png>)
+
+
 ## How to use
 #### METHOD 1 - Direct load TFT file to to 32G FAT MicrtSD card (it must be the only file on the SD card), insert into Nextion, power on to flash display.
 #### METHOD 2 - Load into Nextion editor, complile, export to 32G FAT flash card, flash display.
@@ -38,20 +40,19 @@ by Steve Nofs
 - Compile. 
 - Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
 
-## NEXTION 2.4" and 2.8" VERSION HISTORY ####
 
-#### Ver. 24MAR2024:
+## Nextion 4.3" Version History
 
-- Full rework of Manual Brew Screen with Brew Graph, Flow, Flow Target, Weight, Target Weight, Shot Hydaulic force feedback gauge during shot.
-- Realign/organize components in Brew Settings screens.
-- Color code data entry components in Brew Setting screens: Weight=GREEN, Flow=YELLOW, Temperature=RED, Pressure=BLUE.
-- Added Target Weight to Brew Screen
 
-#### Ver. 10MAR2024:
-- A better indication of Stop-on-weight being enabled: red outline on the button with white text; easier to read. 
-- LED configuration screen to configure LED color
-- Added background color to water level gauge for better visual.
-- Fine-tuned alignment of graphic elements on Home screen.
+#### Ver. 14APR2024b
+- added "Load Defaults" button to Keyboard screen
+
+
+#### Ver. 14APR2024
+- Build based on 3.5" HMI
+- Added graphical profile selection buttons
+- Resized elements
+- Implemented Live-updating Brew Graph Preview
 
 
 
@@ -110,21 +111,23 @@ Save updated values like this:
 #### Ver. 22JAN2024:
 - Basic beginning of 2.4 --> 3.5 conversion
 
+## NEXTION 2.4" and 2.8" VERSION HISTORY ####
+
+#### Ver. 24MAR2024:
+
+- Full rework of Manual Brew Screen with Brew Graph, Flow, Flow Target, Weight, Target Weight, Shot Hydaulic force feedback gauge during shot.
+- Realign/organize components in Brew Settings screens.
+- Color code data entry components in Brew Setting screens: Weight=GREEN, Flow=YELLOW, Temperature=RED, Pressure=BLUE.
+- Added Target Weight to Brew Screen
+
+#### Ver. 10MAR2024:
+- A better indication of Stop-on-weight being enabled: red outline on the button with white text; easier to read. 
+- LED configuration screen to configure LED color
+- Added background color to water level gauge for better visual.
+- Fine-tuned alignment of graphic elements on Home screen.
 
 
 
-## Nextion 4.3" Version History
-
-
-#### Ver. 14APR2024b
-- added "Load Defaults" button to Keyboard screen
-
-
-#### Ver. 14APR2024
-- Build based on 3.5" HMI
-- Added graphical profile selection buttons
-- Resized elements
-- Implemented Live-updating Brew Graph Preview
 
 
 
