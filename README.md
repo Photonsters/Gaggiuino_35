@@ -8,7 +8,7 @@ by Steve Nofs
   - My goal was to provide a clean and innovative interface to the STM32 controller while maintaining all functionality of the original HMI coding.
   - The official project lives here: [Gaggiuino](https://gaggiuino.github.io/#/)
   - What you will find here are my HMI files and compiled TFT files for the 2.4"/2.8", 3.5" and 4.3" Nextion displays.
-  - Feel free to give them a try. If for any reason you want to revert back to the original HMI code you can always flash to original code to your display.
+  - Feel free to give them a try. If for any reason you want to revert back to the original HMI code you can always flash the original code to your display.
   - Enjoy!
 
 ### See the latest demos on my channel  [YouTube](https://www.youtube.com/@stevenofs8795).
