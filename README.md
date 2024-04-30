@@ -43,6 +43,10 @@ by Steve Nofs
 
 ## Nextion 4.3" Version History
 
+#### Ver. 30APR2024
+- Real-time floating values track with Brew graph plotting
+- Tare button on Brew graph resets Weight plot to Zero
+- Added Puck Resistance calculation graph to Brew Graph screen
 
 #### Ver. 14APR2024b
 - added "Load Defaults" button to Keyboard screen
